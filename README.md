@@ -1,1 +1,2 @@
-# islamAppvideos
+# islamApp
+A simple islam App
